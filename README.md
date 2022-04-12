@@ -20,4 +20,4 @@ Predicts the concrete compressive strength based on the different features like 
     ```bash
     - Conda : !conda install -r requirements.txt
     ```
-- Execute index.html 
+- Execute main.py 
